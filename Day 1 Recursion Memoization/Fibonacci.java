@@ -2,7 +2,7 @@ import java.util.Map;
 import java.util.HashMap;
 import javax.naming.spi.DirStateFactory.Result;
 
-class Fibbonaci {
+class Fibonacci {
     public static void main(String[] args) {
         int pos = 10;
         //recursive function
